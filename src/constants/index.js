@@ -71,7 +71,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Sri Sai Nivasam, Tarnaka, Hyderabad, India",
+  address: "Hyderabad, India",
   phoneNo: "+91 9866344123",
   email: "ky14112004@gmail.com",
 };
