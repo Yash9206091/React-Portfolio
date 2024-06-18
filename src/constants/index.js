@@ -17,13 +17,6 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "mySQL"],
   },
   {
-    year: "2024 - Present ",
-    role: "Software Developer Intern",
-    company: "OliveCrytpto Systems Pvt.Ltd",
-    description: `I spearheaded the development of an innovative employee performance system. This project allowed me to apply my skills in software development while gaining hands-on experience in creating solutions to enhance organizational performance and efficiency.`,
-    technologies: ["Swing & Java", "Hydbernate", "React.js", "mySQL"],
-  },
-  {
     year: "2023 - 2023",
     role: "Full Stack Developer",
     company: "LearnWik Solutions",
