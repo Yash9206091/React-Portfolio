@@ -10,7 +10,7 @@ export const ABOUT_TEXT = `As a fervent full stack developer, I specialize in th
 
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2024 - 2024",
     role: "React Intern",
     company: "Smart IMS",
     description: `During my tenure as an intern at Smart IMS, I contributed to the development of modern websites. This experience provided me with valuable insights into building contemporary online platforms and honed my skills in web development.`,
